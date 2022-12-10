@@ -24,8 +24,8 @@ const Copyright = () => {
     <Typography variant="body2" color="textSecondary" align="center">
       © {new Date().getFullYear()}
       {" - "}
-      <Link color="inherit" href="https://conecteup.com">
-        Conecteup - v{system.version}
+   <Link color="inherit" href="https://api.whatsapp.com/send?phone=5562994482117&text=ola%20gostaria%20de%20solicitar%20um%20or%C3%A7amento%20do%20sistema%20de%20whatsapp">
+          INDIQUE E GANHE ATÉ { versionSystem }
       </Link>
       {"."}
     </Typography>
