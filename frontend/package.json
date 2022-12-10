@@ -2,8 +2,8 @@
   "name": "frontend",
   "version": "0.1.0",
   "system": {
-    "version": "1.0.0",
-    "name": "Conecteup",
+    "version": "R$ 100,00",
+    "name": "Indique e ganhe até ",
     "url": "http://conecteup.com"
   },
   "private": true,
